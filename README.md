@@ -19,3 +19,5 @@
 <p><img align = "left" src = "https://github-readme-stats.vercel. app/api/top-langs?username=enesworkout&show_icons=true&locale=en&layout=compact" alt="enesworkout" /></p> <p>&
 
 nbsp;<img align="center" src="https://github- readme-stats.vercel.app/api?username=enesworkout&show_icons=true&locale=en" alt="enesworkout" /></p>
+
+<p><img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=enesworkout&" alt = "enesworkout" /></p>
